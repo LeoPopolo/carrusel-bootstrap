@@ -1,0 +1,17 @@
+html{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(233, 183, 198);
+}
+
+header{
+    font-family: 'Bangers', cursive;
+    font-size: 100px;
+    color: rgb(240, 237, 74);
+    background-color: rgb(233, 183, 198);
+    text-align: center;
+}
+
+img{
+    background-color: rgb(233, 183, 198);
+}
